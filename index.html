@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liège QR Menü</title>
+  <meta name="description" content="Liège Waffle & Coffee QR menüsü. Waffle, kahve, tatlı ve içecek seçenekleri.">
+  <link rel="icon" type="image/png" href="assets/liege-logo.png">
+  <link rel="preload" href="assets/trendyol-products/restaurant-cover.jpeg" as="image">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar" data-topbar>
+    <a class="brand" href="#top" aria-label="Liège QR Menü">
+      <img src="assets/liege-logo.png" alt="Liège logosu" width="52" height="52">
+      <span>
+        <strong>Liège</strong>
+        <small>Waffle & Coffee</small>
+      </span>
+    </a>
+    <a class="topbar-action" href="tel:+902222211416">Ara</a>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-label="Liège QR menü">
+      <img class="hero-image" src="assets/trendyol-products/restaurant-cover.jpeg" alt="Liège Waffle & Coffee ürünleri">
+      <div class="hero-shade"></div>
+      <div class="hero-content reveal">
+        <p class="eyebrow">QR Menü</p>
+        <h1>Liège Waffle & Coffee</h1>
+        <p>Cumhuriye Mahallesi, Selçuker Sokak 3/A, Tepebaşı/Eskişehir</p>
+      </div>
+    </section>
+
+    <section class="controls" aria-label="Menü kontrolleri">
+      <label class="search-box">
+        <span>Ürün ara</span>
+        <input type="search" placeholder="Waffle, latte, limonata..." data-search>
+      </label>
+      <nav class="category-tabs" aria-label="Kategoriler" data-categories></nav>
+    </section>
+
+    <section class="menu-shell">
+      <div class="menu-heading reveal">
+        <p class="eyebrow">Menü</p>
+        <h2 data-active-title>Tüm ürünler</h2>
+        <span data-count-text></span>
+      </div>
+      <div class="menu-grid" data-menu></div>
+      <p class="empty-state" data-empty hidden>Bu aramaya uygun ürün bulunamadı.</p>
+    </section>
+
+    <section class="info-band reveal">
+      <div>
+        <span>Telefon</span>
+        <a href="tel:+902222211416">0222 221 14 16</a>
+      </div>
+      <div>
+        <span>WhatsApp</span>
+        <a href="https://wa.me/905323338149" target="_blank" rel="noreferrer">0532 333 81 49</a>
+      </div>
+      <div>
+        <span>Instagram</span>
+        <a href="https://www.instagram.com/liegewaffleeskisehir/" target="_blank" rel="noreferrer">@liegewaffleeskisehir</a>
+      </div>
+    </section>
+  </main>
+
+  <button class="back-top" type="button" aria-label="Yukarı çık" data-back-top>↑</button>
+  <script src="script.js"></script>
+</body>
+</html>
