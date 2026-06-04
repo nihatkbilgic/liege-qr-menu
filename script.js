@@ -3,7 +3,7 @@ const menuItems = [
     category: "Waffle Bowl",
     name: "Liege Kendi Kovanı Kendin Doldur",
     description: "Tereyağlı waffle hamurunu sütlü çikolata ve kendi isteklerinizle tatlandırın!",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19388098_1780103522539.jpg"
   },
   {
