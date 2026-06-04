@@ -10,84 +10,91 @@ const menuItems = [
     category: "Waffle Bowl",
     name: "Liege Xl Waffle Bowl",
     description: "Dilimlenmiş çift çıtır waffle hamuru, sütlü çikolata, seçeceğiniz çikolata ve malzemeler ile hazırlanır.",
-    price: "599 TL",
+    price: "400 TL",
     image: "assets/trendyol-products/19388123_1780104833147.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Klasik Waffle",
     description: "Dilimlenmiş tereyağıyla hazırlanmış belçika waffle hamuruna muz, çilek, sütlü çikolata, beyaz çikolata, pirinç patlağı, yer fıstığı, damla çikolata ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359869_1779929884652.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Çilekli Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna çilek, muz, sütlü çikolata, çilekli çikolata, çilekli krep parçacığı, yer fıstığı, çilekli pirinç patlağı ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359871_1779929517777.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Kinder Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, beyaz çikolata, fındık, çakıltaşı, kinder çikolata ile hazırlanır.",
-    price: "440 TL",
+    price: "350 TL",
     image: "assets/trendyol-products/19359872_1779934997059.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Beyaz Çikolatalı Waffle",
     description: "Parçalanmış waffle hamur üzerine, beyaz çikolata, muz, çilek, damla çikolara, yer fıstığı ve fındık ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359873_1779930363439.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Muzlu Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, muzlu çikolata, beyaz pirinç patlağı, bonibon, haribo ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359874_1779934753167.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Milka Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, bitter çikolata, fındık, damla çikolata, milka çikolatası ile hazırlanır.",
-    price: "440 TL",
+    price: "350 TL",
     image: "assets/trendyol-products/19359875_1779931991259.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Frambuazlı Çikolata Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, frambuazlı çikolata, çilekli pirinç patlağı, beyaz pirinç patlağı, çilekli krep kırığı ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359876_1779931576425.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Sütlü Çikolata Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, bol sütlü çikolata, sütlü pirinç patlağı, yer fıstığı, damla çikolata ile hazırlanır.",
-    price: "380 TL",
+    price: "290 TL",
     image: "assets/trendyol-products/19359877_1779931025237.jpg"
   },
   {
     category: "Waffle Bowl",
     name: "Liege Bowl Oreo Waffle",
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, bitter çikolata, fındık, damla çikolata, oreo bisküvisi ile hazırlanır.",
-    price: "440 TL",
+    price: "350 TL",
     image: "assets/trendyol-products/19379385_1779932656525.jpg"
+  },
+  {
+    category: "Waffle Bowl",
+    name: "Liege Bowl Dondurmalı Waffle",
+    description: "Dilimlenmiş çıtır waffle hamuruna muz, çilek, sütlü çikolata, beyaz çikolata, damla çikolata, fındık parçaları, toz antep fıstığı ve maraş dondurması ile hazırlanır.",
+    price: "350 TL",
+    image: "assets/trendyol-products/19388035_1780102127738.jpg"
   },
   {
     category: "Waffle Cup",
     name: "Liege Waffle Cup",
     description: "Dilimlenmiş belçika waffle hamuru, seçeceğiniz çikolatalar, meyveler ve ekstra malzemeler ile hazırlanır.",
-    price: "250 TL",
+    price: "180 TL",
     image: "assets/trendyol-products/19382845_1780012272984.png"
   },
   {
     category: "Fondü",
     name: "Liege Special Fondü",
     description: "Orijinal belçika çikolatası, çilek ve muz hazırlanır.",
-    price: "200 TL",
+    price: "150 TL",
     image: "assets/trendyol-products/19379462_1780011016849.jpg"
   },
   {
@@ -101,49 +108,49 @@ const menuItems = [
     category: "Kahveler",
     name: "Espresso",
     description: "Çekirdek kahve ile hazırlanır.",
-    price: "119,90 TL",
+    price: "80 TL",
     image: "assets/trendyol-products/19382856_1780013776618.jpg"
   },
   {
     category: "Kahveler",
     name: "Americano",
     description: "Çekirdek kahve ile hazırlanır.",
-    price: "149,90 TL",
+    price: "100 TL",
     image: "assets/trendyol-products/19382850_1780013473752.jpg"
   },
   {
     category: "Kahveler",
     name: "Latte",
     description: "Çekirdek kahve ve süt ile hazırlanır.",
-    price: "179,90 TL",
+    price: "130 TL",
     image: "assets/trendyol-products/19382852_1780013557974.jpg"
   },
   {
     category: "Kahveler",
     name: "Cappuccino",
     description: "Çekirdek kahve ve süt ile hazırlanır.",
-    price: "179,90 TL",
+    price: "130 TL",
     image: "assets/trendyol-products/19382854_1780013666815.jpg"
   },
   {
     category: "Kahveler",
     name: "Flat White",
     description: "Çift shot (double) espresso üzerine köpüklü, kadifemsi sıcak sütün eklenmesiyle hazırlanır.",
-    price: "179,90 TL",
+    price: "130 TL",
     image: "assets/trendyol-products/19382858_1780013969688.jpg"
   },
   {
     category: "Kahveler",
     name: "Ice Americano",
     description: "Çekirdek kahve ve buz ile hazırlanır.",
-    price: "169,90 TL",
+    price: "150 TL",
     image: "assets/trendyol-products/19382860_1780014134751.jpg"
   },
   {
     category: "Kahveler",
     name: "Ice Latte",
     description: "Çekirdek kahve, buz ve süt ile hazırlanır.",
-    price: "199,90 TL",
+    price: "150 TL",
     image: "assets/trendyol-products/19382866_1780014309932.jpg"
   },
   {
