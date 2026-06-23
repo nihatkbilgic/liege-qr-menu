@@ -168,6 +168,13 @@ const menuItems = [
     image: "assets/trendyol-products/19382866_1780014309932.jpg"
   },
   {
+    category: "Kahveler",
+    name: "Türk Kahvesi",
+    description: "Öğütülmüş Türk kahvesi ile hazırlanır.",
+    price: "100 TL",
+    image: "assets/turk-kahvesi.jpg"
+  },
+  {
     category: "İçecekler",
     name: "Su",
     description: "Şişe su.",
