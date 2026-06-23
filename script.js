@@ -10,7 +10,7 @@ const menuItems = [
     category: "Waffle Bowl",
     name: "Liege Xl Waffle Bowl",
     description: "Dilimlenmiş çift çıtır waffle hamuru, sütlü çikolata, seçeceğiniz çikolata ve malzemeler ile hazırlanır.",
-    price: "400 TL",
+    price: "450 TL",
     image: "assets/trendyol-products/19388123_1780104833147.jpg"
   },
   {
@@ -19,6 +19,13 @@ const menuItems = [
     description: "Dilimlenmiş tereyağıyla hazırlanmış belçika waffle hamuruna muz, çilek, sütlü çikolata, beyaz çikolata, pirinç patlağı, yer fıstığı, damla çikolata ile hazırlanır.",
     price: "290 TL",
     image: "assets/trendyol-products/19359869_1779929884652.jpg"
+  },
+  {
+    category: "Waffle Bowl",
+    name: "Liege Bowl Antep Fıstık Waffle",
+    description: "Dilimlenmiş çıtır belçika waffle hamuruna muz, çilek, sütlü çikolata, bol antep fıstıklı çikolata, antep fıstığı file, antep fıstığı tozu, beyaz pirinç patlağı ile hazırlanır.",
+    price: "400 TL",
+    image: "assets/trendyol-products/19359870_1781937491045.jpg"
   },
   {
     category: "Waffle Bowl",
@@ -75,6 +82,13 @@ const menuItems = [
     description: "Dilimlenmiş belçika waffle hamuruna muz, çilek, sütlü çikolata, bitter çikolata, fındık, damla çikolata, oreo bisküvisi ile hazırlanır.",
     price: "350 TL",
     image: "assets/trendyol-products/19379385_1779932656525.jpg"
+  },
+  {
+    category: "Waffle Bowl",
+    name: "Liege Bowl Lotus Waffle",
+    description: "Dilimlenmiş çıtır belçika waffle hamuruna muz, çilek, lotus çikolatası, sütlü çikolata, yer fıstığı, sütlü pirinç patlağı, lotus kırıntısı ile hazırlanır.",
+    price: "350 TL",
+    image: "assets/trendyol-products/19379396_1781937488254.jpg"
   },
   {
     category: "Waffle Bowl",
